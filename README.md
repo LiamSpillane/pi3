@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to the repository for pi3, a compiled, statically-typed, C-like programming language written in C++ and distributed under the MIT license. It is developed by Liam Spillane, and its source code can be found at https://github.com/LiamSpillane/pi3.
+Welcome to the repository for pi3, a compiled, statically-typed, C-like programming language written in C and distributed under the MIT license. It is developed by Liam Spillane, and its source code can be found at https://github.com/LiamSpillane/pi3.
 
 # Background
 
